@@ -1,4 +1,4 @@
-# Fuzzy_C-means-FCM-
+# Fuzzy_C-means-FCM
 Clustering using Fuzzy Logic 
 
 ### **Fuzzy Logic**
